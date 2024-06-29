@@ -14,6 +14,28 @@ I am 33 years old, 13 years of my labor activity are devoted to the sphere of re
 
 ## Education
 
+Mogilev State Polytechnical College, marketing economist
+
+## Languages
+
+* Russian - Nativ
+
+English - A2
+
+### Code Example
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+### Skills
+*Lack*
+
+
+
+
+
 
 
 
