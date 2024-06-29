@@ -20,7 +20,7 @@ Mogilev State Polytechnical College, marketing economist
 
 * Russian - Nativ
 
-English - A2
+* English - A2
 
 ### Code Example
 
