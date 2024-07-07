@@ -1,0 +1,45 @@
+@font-face {
+    font-family: BaskervvilleSC;
+    src: url("assets/fonts/BaskervvilleSC-Regular.ttf");
+}
+
+* {
+    font-family: BaskervvilleSC;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.nav-list {
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+}
+
+.footer-list {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer-link {
+    padding: 0 100px;
+    line-height: 50px;
+}
